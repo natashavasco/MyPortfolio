@@ -9,6 +9,10 @@
 	background-color: var(--tertiary-color);
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
+
+  h1,h2 {
+	text-align: center;
+  }
   
   .panel {
 	display: flex;

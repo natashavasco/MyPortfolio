@@ -27,7 +27,7 @@ h2 {
 	display: flex; /* Use flexbox for child elements */
 	justify-content: center; /* Align logos horizontally */
 	align-items: center; /* Logos are vertically centered within their row */
-	gap: 300px; /* Space between logos */
+	gap: 200px; /* Space between logos */
 	margin-top: 50px; /* Adjusts distance from the top of the page */
 }
 

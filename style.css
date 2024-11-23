@@ -23,6 +23,10 @@ h2 {
 	text-align: center;
 }
 
+uol{
+	color:var(--primary-color);
+}
+
 p {
 	color: var(--primary-color)
 }
